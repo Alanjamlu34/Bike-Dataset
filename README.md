@@ -1,4 +1,4 @@
-# Dicoding Projek Akhir
+# Bike Sharing Analysis
 
 ## Setup environment
 ```
